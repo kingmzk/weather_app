@@ -1,0 +1,1 @@
+Components are the building blocks of a user interface. Component is a just a javascript function that takes props as input and returns the Element which can be display in frontend
