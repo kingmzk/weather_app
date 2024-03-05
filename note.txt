@@ -1,1 +1,8 @@
-Components are the building blocks of a user interface. Component is a just a javascript function that takes props as input and returns the Element which can be display in frontend
+Components are the building blocks of a user interface. Component is a just a javascript function that takes props as input and returns the Element which can be display in frontend.
+
+
+When we install Create React App, it provides three main tools:
+
+Webpack: Bundles our code and serves it to the server.
+Babel: Transforms JSX to plain JavaScript.
+Development Server: Facilitates running a local server for development purposes.
